@@ -28,7 +28,7 @@ ms.custom: intune-azure
 
 ---
 
-# Application protection policies and work profiles on Android Enterprise devices in Intune
+# Application protection policies and work profiles on Android Enterprise devices in Intune 001
 
 In many organizations, administrators are challenged to protect resources and data on different devices. One challenge is protecting resources for users with personal Android Enterprise devices, also known as bring-your-own-device (BYOD). Microsoft Intune supports two Android deployment scenarios for bring-your-own-device (BYOD):
 
